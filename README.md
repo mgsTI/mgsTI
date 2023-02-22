@@ -2,6 +2,7 @@
 - 🔭 Estudante de front-end
 - 🌱 Estudando Javascript
 - 😄 he/him
+- 📰 <a id="portifólio" href="https://migueldeveloper.netlify.app">portifólio</a>
 
 <div style="display: inline-block"><br>
 
